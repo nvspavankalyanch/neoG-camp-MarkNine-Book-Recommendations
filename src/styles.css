@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin: 1rem auto;
+  width: 600px;
+}
+
+.btn {
+  margin: 1rem 0.5rem;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid #475569;
+  cursor: pointer;
+}
+
+.unordered {
+  list-style: none;
+}
+
+.list-style {
+  border: 1px solid gray;
+  margin: 1rem auto;
+  padding: 1rem 1rem;
+  /* width: 40%; */
+  border-radius: 0.5rem;
+  background-color: #f8fafc;
+}
+
+.book-style {
+  font-size: larger;
+}
